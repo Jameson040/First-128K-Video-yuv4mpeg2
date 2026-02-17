@@ -26,7 +26,7 @@ This project documents the successful generation of a **131,072 x 73,728** resol
 
 ## 📥 Master Record Download
 GitHub has a 100MB file limit. The 14.5 GB Master `.y4m` file is archived on Google Drive:
-- [INSERT YOUR GOOGLE DRIVE LINK HERE]
+- https://drive.google.com/file/d/1PJEww0gj9GtxsFEclzyIXDKT80VAtgZG/view?usp=drive_link
 
 ## ⚖️ License
 MIT License - Open for educational and research purposes.
