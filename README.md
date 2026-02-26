@@ -1,4 +1,4 @@
-# 🚀 World Record: Native 128K Video Stream Generation
+# 🚀  Native 128K Video Stream Generation
 **Bypassing the 16-bit software ceiling to create the first 9.6-billion-pixel video frame.**
 
 ## 📖 The "128K" Problem
